@@ -1,1 +1,1 @@
-# MSCI-436-Avocado-Model
+# MSCI 436 Group Project: Avocado Price Prediction 
